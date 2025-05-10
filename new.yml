@@ -11,20 +11,4 @@ persons:
      Street: No 20 4th  Street
      city: chennai
      Country: India
-
-
-
-  - name: ibrahim
-    age: 25
-    gender :  Male
-    isStudent: True
-    hobbies: 
-      -reading
-      -music
-      -movies
-    address:
-     Street: No 20 4th  Street
-     city: chennai
-     Country: India
- 
   
